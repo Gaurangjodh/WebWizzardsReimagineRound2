@@ -1,4 +1,4 @@
-# Burger King Website Redesign
+# Burger King Website 
 
 Welcome to the Burger King Website Redesign project! This project is part of the Reimagine contest, where we aim to revamp the Burger King website to enhance user experience and modernize its design.
 
