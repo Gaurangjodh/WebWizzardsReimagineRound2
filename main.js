@@ -47,9 +47,9 @@ tl.from("#bklogo",{
   rotate:1080,
   duration:1.8,
 })
-tl.from("#bklogo",{
-  delay:0.6,
-  y:-30,
-  duration:1.6,
-  ease:Bounce.easeOut,
-})
+// tl.from("#bklogo",{
+//   delay:0.6,
+//   y:-30,
+//   duration:1.6,
+//   ease:Bounce.easeOut,
+// })
