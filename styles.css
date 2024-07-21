@@ -637,7 +637,7 @@ nav {
 .marquee-product_name {
   padding: 20px;
   font-family: var(--font-secondary);
-  color: rgb(107, 61, 43);
+  color: 	#28282B;
   font-size: 36px;
   cursor: pointer;
   text-wrap: nowrap;
