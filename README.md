@@ -18,7 +18,6 @@ In this project, we are redesigning the Burger King website to improve its visua
 - **Modern UI/UX:** A clean and modern user interface that enhances user experience.
 - **Improved Navigation:** Easy-to-use navigation to help users find what they need quickly.
 - **Menu Integration:** Displaying the Burger King menu with detailed descriptions and prices.
-- **Store Locator:** A feature to help users find the nearest Burger King locations.
 
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
