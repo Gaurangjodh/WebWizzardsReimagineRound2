@@ -1200,10 +1200,6 @@ p {
     }
 }
 
-/* *********** */
-
-
-/* *************** */
 
 .blog-text .h4-title {
     text-transform: capitalize;
@@ -2170,6 +2166,9 @@ btn {
     color: var(--tertiary-color);
   
   }
-  
+  .filter img{
+    height: 35px;
+    width: 45px;
+}
 
 
