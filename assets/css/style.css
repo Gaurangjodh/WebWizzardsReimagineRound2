@@ -2075,10 +2075,12 @@ p {
   }
 
   .card {
-      width: 195px;
+      width: 180px;
       max-width: none;
       margin-bottom: 20px;
-      height: 285px;
+      margin-left: 10px;
+      margin-right: 10px;
+      height: 280px ;
       
 
   }
@@ -2104,6 +2106,8 @@ p {
       flex-wrap: wrap;
       margin: 0;
       padding: 0;
+       margin-left: 10px;
+      margin-right: 10px;
   }
 
   .card .details div h3 {
