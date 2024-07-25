@@ -106,7 +106,7 @@ ul {
 }
 
 .main-navigation .menu li a:hover, .main-navigation .menu li .active-menu, .main-navigation .menu .sub-menu li .active-sub-menu {
-    color: #ff8243;
+    color: #fe9a68;
     background: #f3f3f5;
     box-shadow: inset 8px 8px 12px #e2e2e2, inset -8px -8px 12px #ffffff;
 }
@@ -731,7 +731,7 @@ p {
 
 .menu-tab ul .filter-active {
     color: #ffffff;
-    background: linear-gradient(145deg, #e3a92b, #ffc933);
+    background: linear-gradient(145deg, #ff8243, #ff8243);
 }
 
 .menu-list-row .bydefault_show .dish-box-wp {
@@ -853,8 +853,8 @@ p {
     color: #ffffff;
     transition: 0.3s;
     margin-left: 5px;
-    background: linear-gradient(145deg, #ffc954, #ffbc00);
-    box-shadow: inset 4px 4px 8px #d6a029, inset -4px -4px 8px #ffd837;
+    background: linear-gradient(145deg, #ff8243, #ff8243);
+    box-shadow: inset 4px 4px 8px #ff8243, inset -4px -4px 8px #ff8243;
 }
 
 .dish-add-btn i {
@@ -863,7 +863,7 @@ p {
 }
 
 .dish-add-btn:hover {
-    background: linear-gradient(145deg, #e3a92b, #ffc933);
+    background: linear-gradient(145deg, #ff8243, #ff8243);
 }
 
 /* ************ */
@@ -938,7 +938,7 @@ p {
 }
 
 .call-now a:hover, .contact-info a:hover {
-    color: #fcbc30;
+    color: #ff8243;
 }
 
 #gallery {
@@ -993,12 +993,12 @@ p {
 
 .swiper-button-prev:hover {
     box-shadow: inset 5px 5px 20px #d4d4d4, inset -5px -5px 20px #ffffff;
-    color: #fcbc30;
+    color: #ff8243;
 }
 
 .swiper-button-next:hover {
     box-shadow: inset -5px 5px 20px #d4d4d4, inset 5px -5px 20px #ffffff;
-    color: #fcbc30;
+    color: #ff8243;
 }
 
 .swiper-pagination {
@@ -1023,7 +1023,7 @@ p {
 }
 
 .swiper-pagination-bullet-active {
-    background: #fcbc30;
+    background: #ff8243;
     width: 30px;
 }
 
