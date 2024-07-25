@@ -2154,5 +2154,9 @@ btn {
     height: 35px;
     width: 45px;
 }
-
+.sec-title-shape mb-4{
+    width: 100%;
+  max-width: 280px;
+  height: auto;
+}
 
