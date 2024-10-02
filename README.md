@@ -9,7 +9,7 @@ Welcome to the Burger King Website Redesign project! This project is part of the
 - [Installation](#installation)
 - [License](#license)
 - [Team Members](#team-members)
-
+ 
 ## Project Overview
 In this project, we are redesigning the Burger King website to improve its visual appeal, usability, and overall user experience. Our goal is to create a responsive, user-friendly, and visually engaging website that captures the essence of the Burger King brand.
 
